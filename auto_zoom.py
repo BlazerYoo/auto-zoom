@@ -1,4 +1,4 @@
-import pandas as pd, webbrowser as wb, time, pyautogui as pag, ctypes
+import pandas as pd, webbrowser as wb, time, pyautogui as pag
 from datetime import datetime as dt
 
 
